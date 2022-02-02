@@ -7,7 +7,7 @@ const Config = UniversalFunctions.CONFIG;
 
 const demoApi = {
   method: "POST",
-  path: "/api/demo/demoApi",
+  path: "/api/demo/demoApi/new",
   options: {
     description: "demo api",
     tags: ["api", "demo"],
